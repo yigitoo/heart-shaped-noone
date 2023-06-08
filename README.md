@@ -1,2 +1,2 @@
-# heart-shaped-zeynep
-a heart shape for zeynep.
+# heart-shaped-ceren
+a heart shape for ceren.
